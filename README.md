@@ -14,7 +14,15 @@ A Chrome extension that removes **Google’s sponsored results**, **AI-generated
 
 ## Installation 🚀
 
-Currently, the extension is under review for the **Chrome Web Store**. In the meantime, you can install it manually:
+### For Firefox Users
+The extension is available on **Firefox**!  
+
+[![Get it for Firefox](https://img.shields.io/badge/Get%20it%20for-Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://addons.mozilla.org/addon/ugh-just-show-me-results/)
+
+### For Chrome Users
+As this is a community-driven passion project, I've chosen to keep it free and accessible to all users. To maintain this commitment, the extension is temporarily available for Chrome via manual installation while I explore sustainable distribution options.
+
+In the meantime, you can install it manually:
 
 1. Clone this repository to your local machine:
    ```bash
