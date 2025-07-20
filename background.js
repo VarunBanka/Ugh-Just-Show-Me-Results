@@ -13,8 +13,8 @@ const RULE = {
       // Use transform to modify the query parameters
       transform: {
         queryTransform: {
-          // Add or replace the 'utm' parameter with value '14'
-          addOrReplaceParams: [{ key: "utm", value: "14" }]
+          // Add or replace the 'udm' parameter with value '14'
+          addOrReplaceParams: [{ key: "udm", value: "14" }]
         }
       }
     }
